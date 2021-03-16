@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+//잘 땡겨지셧느지 확인하기 위해서 
 function App() {
   return (
     <div className="App">
